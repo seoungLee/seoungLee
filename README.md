@@ -1,16 +1,26 @@
+# Hi there 👋
+## Hi there 👋
 ### Hi there 👋
+#### Hi there 👋
+##### Hi there 👋
+---
+**안녕**<br>
+*하세요*<br>
+~~취소선~~<br>
 
-<!--
-**seoungLee/seoungLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>인용구
+* 1번
+* 2번
 
-Here are some ideas to get you started:
+- 1번
+- 2번 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[네이버](https://www.naver.com)
+
+```
+System.out.println();
+```
+
+:smirk:
+:joy:
+:rage:
