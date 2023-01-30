@@ -13,24 +13,4 @@
 
 # Hi there 👋
 
----
-**안녕**<br>
-*하세요*<br>
-~~취소선~~<br>
-
->인용구
-* 1번
-* 2번
-
-- 1번
-- 2번 
-
-```
-System.out.println();
-```
-
-:smirk:
-:joy:
-:rage:
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=&fontSize=90)
